@@ -84,7 +84,7 @@
                         <a href="#"><i class="fa fa-desktop "></i>Sales Report<span class="fa arrow"></span></a>
 
                          <ul class="nav nav-second-level">
-							<li>
+							<!--<li>
 
                                 <a href="<?=PROJECT_PATH?>sales-quotation-date-report/index.php"><i class="fa fa-toggle-on"></i>Quotation Report</a>
 
@@ -114,7 +114,7 @@
 
                                 <a href="<?=PROJECT_PATH?>sales-invoice-product-report/index.php"><i class="fa fa-bell "></i>Invoice Product Wise Report</a>
 
-                            </li>
+                            </li>-->
 							
 							  <li>
 
@@ -216,11 +216,11 @@
                                 <a href="<?=PROJECT_PATH?>po-supplier-report/index.php"><i class="fa fa-bell "></i>Supplier Lost Report</a>
 
                             </li>-->
-                            <li>
+                            <!--<li>
 
                                 <a href="<?=PROJECT_PATH?>po-grn-product-report/index.php"><i class="fa fa-toggle-on"></i>Good Receipt Note Report (Product Wise)</a>
 
-                            </li>
+                            </li>-->
 
                             <li>
 
@@ -240,7 +240,7 @@
                         </ul>
 
                     </li>
-					<li>
+					<!--<li>
 
                         <a href="#"><i class="fa fa-desktop "></i>Manufacture Report<span class="fa arrow"></span></a>
 
@@ -278,7 +278,7 @@
 
                         </ul>
 
-                    </li>
+                    </li>-->
 					
 					<li>
 
@@ -297,7 +297,7 @@
 
                             </li>
 							
-							<li>
+							<!--<li>
 
                                 <a href="<?=PROJECT_PATH?>inv-stock-transfer-reprot/index.php"><i class="fa fa-toggle-on"></i>Stock Transfer Report</a>
 
@@ -321,7 +321,7 @@
 
                                 <a href="<?=PROJECT_PATH?>inv-re-cycle-entry-reprot/index.php"><i class="fa fa-toggle-on"></i> Re Cycle Entry Report</a>
 
-                            </li>
+                            </li>-->
 							<!--<li>
 
                                 <a href="<?=PROJECT_PATH?>inv-mother-coin-report/index.php"><i class="fa fa-toggle-on"></i> Mother Coin In/Out Report</a>
@@ -353,7 +353,7 @@
 
                     </li>-->
 
-					<li>
+					<!--<li>
 
                         <a href="#"><i class="fa fa-desktop "></i>PayRoll Report<span class="fa arrow"></span></a>
 
@@ -375,7 +375,7 @@
 
                         </ul>
 
-                    </li>
+                    </li>-->
 
 					<!--<li>
 
@@ -387,11 +387,11 @@
 
 					
 
-                    <li>
+                    <!--<li>
 
                         <a  href="blank.html"><i class="fa fa-square-o "></i>Blank Page</a>
 
-                    </li>
+                    </li>-->
 
                 </ul>
 

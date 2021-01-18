@@ -102,7 +102,7 @@
                             </li>
                         </ul>
                     </li>
-					<li>
+					<!--<li>
                         <a href="#"><i class="fa fa-paypal"></i>Goods receipt note<span class="fa arrow"></span></a>
                          <ul class="nav nav-second-level">
                             <li>
@@ -124,7 +124,7 @@
                                 <a href="<?=PROJECT_PATH?>eva-costing-entry/index.php"><i class="fa fa-toggle-on"></i>List</a>
                             </li>
                         </ul>
-                    </li>
+                    </li>-->
 					<li>
                         <a href="#"><i class="fa fa-paypal"></i>Payment entry<span class="fa arrow"></span></a>
                          <ul class="nav nav-second-level">

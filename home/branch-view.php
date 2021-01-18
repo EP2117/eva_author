@@ -88,14 +88,14 @@
 						  <div>Sale</div>
 						</a>
 					</div>
-					<?php if($_SESSION[SESS.'_session_user_branch_type']==1){ ?>
+					<!--<?php if($_SESSION[SESS.'_session_user_branch_type']==1){ ?>
 					<div class="col-md-3 col-sm-6 icon text-center">
 						<a class="home-btn home-btn-app" href="../distillery/index.php"  title="MANUFACTURING">
 						  <i class="fa fa-industry"></i>
 						  <div>Manufacturing</div>
 						</a>
 					</div>
-					<?php } ?>
+					<?php } ?>-->
 					
 					<div class="col-md-3 col-sm-6 icon text-center">
 						<a class="home-btn home-btn-app" href="../eva-purchase/index.php"   title="PURCHASE">
@@ -104,12 +104,12 @@
 						</a>
 					</div>
 					
-					<div class="col-md-3 col-sm-6 icon text-center">
+					<!--<div class="col-md-3 col-sm-6 icon text-center">
 						<a class="home-btn home-btn-app" href="../hr/index.php"   title="HR">
 						  <i class="fa fa-users"></i>
 						  <div>HR</div>
 						</a>
-					</div>
+					</div>-->
 					
 					<div class="col-md-3 col-sm-6 icon text-center">
 						<a class="home-btn home-btn-app" href="../inventory/index.php"  title="INVENTORY">

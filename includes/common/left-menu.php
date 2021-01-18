@@ -344,7 +344,7 @@
 
                     </li>
 					
-					 <li>
+					<!-- <li>
 
                         <a href="#"><i class="fa fa-desktop "></i>Product weight calculation<span class="fa arrow"></span></a>
 
@@ -364,7 +364,7 @@
 
                         </ul>
 
-                    </li>
+                    </li>-->
 					
                    <li>
 
@@ -461,7 +461,7 @@
 
                     </li>
 
-					<li>
+					<!--<li>
 
                         <a href="#"><i class="fa fa-desktop "></i>Production Section<span class="fa arrow"></span></a>
 
@@ -502,7 +502,7 @@
 
                         </ul>
 
-                    </li>
+                    </li>-->
 					<li>
 					
 						<a href="#"><i class="fa fa-desktop "></i>Purchase Costing<span class="fa arrow"></span></a>

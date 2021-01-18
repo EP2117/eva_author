@@ -133,7 +133,7 @@
 
 
 
-                    <li>
+                    <!--<li>
 
 
 
@@ -229,7 +229,7 @@
                                 <a href="<?=PROJECT_PATH?>invoice-entry/index.php"><i class="fa fa-bell "></i>Invoice Entry List</a>
                             </li>
                         </ul>
-                    </li>
+                    </li>-->
 					<li>
                         <a href="#"><i class="fa fa-desktop "></i>Direct Invoice Entry<span class="fa arrow"></span></a>
                          <ul class="nav nav-second-level">

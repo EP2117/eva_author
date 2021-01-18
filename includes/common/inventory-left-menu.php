@@ -77,7 +77,7 @@
                         <a  href="<?=PROJECT_PATH?>home/"><i class="fa fa-dashboard "></i>Home</a>
                     </li>
 					
-					 <li>
+					 <!--<li>
                         <a href="<?=PROJECT_PATH?>stock-available/index.php"><i class="fa fa-paypal"></i>Stock ledger<span class="fa arrow"></span></a>
                    	 </li>
 					 <li>
@@ -90,7 +90,7 @@
                                 <a href="<?=PROJECT_PATH?>delivery-customer/index.php"><i class="fa fa-toggle-on"></i>List</a>
                             </li>
                         </ul>
-                    </li>
+                    </li>-->
                  	<li>
                         <a href="#"><i class="fa fa-paypal"></i>Gatepass Entry<span class="fa arrow"></span></a>
                          <ul class="nav nav-second-level">
@@ -102,7 +102,7 @@
                             </li>
                         </ul>
                     </li>
-					<li>
+					<!--<li>
                         <a href="#"><i class="fa fa-paypal"></i>Reserve<span class="fa arrow"></span></a>
                          <ul class="nav nav-second-level">
                             <li>
@@ -171,7 +171,7 @@
                    	 </li>
                     <li>
                         <a  href="blank.html"><i class="fa fa-square-o "></i>Blank Page</a>
-                    </li>
+                    </li>-->
 
                 </ul>
 

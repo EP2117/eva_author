@@ -176,7 +176,7 @@
                             </li>
                         </ul>
                     </li>
-					 <li>
+					<!--<li>
                        <a href="<?=PROJECT_PATH?>account-profitloss/index.php"><i class="fa fa-paypal"></i>Profit & Loss<span class="fa arrow"></span></a>
                     </li>
 					 <li>
@@ -184,16 +184,16 @@
                     </li>
 					 <li>
                        <a href="<?=PROJECT_PATH?>account-trail-balance/index.php"><i class="fa fa-paypal"></i>Trail balance<span class="fa arrow"></span></a>
-                    </li>
+                    </li>-->
 					 <li>
                        <a href="<?=PROJECT_PATH?>account-ledger/index.php"><i class="fa fa-paypal"></i>Ledger<span class="fa arrow"></span></a>
                     </li>
 					 <li>
                        <a href="<?=PROJECT_PATH?>account-cash-book/index.php"><i class="fa fa-paypal"></i>Cash & Bank book<span class="fa arrow"></span></a>
                     </li>
-					<li>
+					<!--<li>
                        <a href="<?=PROJECT_PATH?>account-manufacture/index.php"><i class="fa fa-paypal"></i>Manufacture	Report<span class="fa arrow"></span></a>
-                    </li>
+                    </li>-->
 					<!-- <li>
                        <a href="<?=PROJECT_PATH?>account-bank-book/index.php"><i class="fa fa-paypal"></i>Bank book<span class="fa arrow"></span></a>
                     </li>-->
