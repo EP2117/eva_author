@@ -383,7 +383,9 @@ function totalAmount()
 	
 	
 	//var net_amount				= parseFloat(transport_amount)+parseFloat(gross_amount)+parseFloat(tax_amount);
-	var total_amount			= (parseFloat(tax_amount)+parseFloat(transport_amount)+parseFloat(gross_amount))-parseFloat(dis_amount);	
+	//var total_amount			= (parseFloat(tax_amount)+parseFloat(transport_amount)+parseFloat(gross_amount))-parseFloat(dis_amount);
+	//remove tax calculation in total amount by ep
+	var total_amount			= (parseFloat(transport_amount)+parseFloat(gross_amount))-parseFloat(dis_amount);
 	
 	//document.getElementById('invoice_entry_total_amount').value	=Math.round(total_amount);
 	document.getElementById('invoice_entry_total_amount').value	=number_format(total_amount, 0, '.', ',');
