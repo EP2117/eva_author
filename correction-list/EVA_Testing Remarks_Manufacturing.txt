@@ -1,0 +1,10 @@
+09.11.2017 :
+========
+* Interface Functionality Required - Master , Sales, Inventory, Reports, Accounts, HR.
+* Date - Issue.
+* Back & Delete- Functionality Required.
+* Production Entry - Remarks required.
+* Production Entry - Type (Own/Out Source ) - Missing.
+* Prodution Entry - Production Type - Statical Missing.
+* Gate Pass - Functionality Missing.
+* Related Reports - Reuired.

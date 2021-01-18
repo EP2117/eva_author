@@ -1,0 +1,80 @@
+Purchase
+======
+Supplier Location Filter - Not working.
+
+Purchase Order - Currency Details not working. (Currency Details cannot update in master also.)
+Purchase Order - Unit Price is not working. (Vanilla)
+	
+Invoice Entry - For finished good products, increase qty need to hide.
+Invoice Entry - Purchase reference require supplier name and date.
+Invoice Entry - Ton and Kg automatic calculation missing. (Product Details)
+Increase Product need to show different digits. (Now it show only same digits) > Like 01 to 99 
+Invoice Entry - Product type Filter is not working. (Vanilla)
+Invoice Entry - Update Product Table Require. (Vanilla)
+
+Grn - Raw Material Product no need to show. Need to select only child products.
+Grn - After Grn stock ledger need to show producrt width and weight also.
+
+Costing Entry - Net total amount need to show currency by currency and rate also need to show.
+
+Payment Entry - Currency Details Missing.
+
+Debit Note Entry - Only stock and Only amount filter not support. If select accessories, child products no need to show.
+Debit Note Entry - Debit note entry not support.
+
+ALl list Print Option Required. (Vanilla)
+
+Inventory - Stock Ledger - need to split Finished Good Products show and Raw Material Product show.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sales
+=====
+* Product Tables Need to Update. (Final Meeting Update Require)
+* All the Function Interface Met.
+* Inventory Stock Interface not support.
+* Credit Note development require.
+* All the function require Automatic generate number. (Vanilla)
+
+Quotation Entry - after click pop up button, the product details need to show (Color, Thick, Width, Length and Weight)
+Quotation Entry - Product table need to show only (Brand and Name), Other details need to select manual.
+Quotation Entry - Final Details changes missing.
+Quotation Entry - Cannot type in sales width MM and sales length Meter. Feet.In need to type manual. It is not auto calculation box. (Total Length = Feet + Feet.In)
+Quotation Entry - Amoun calculation wrong. (Amount = Rate * Total Legth)
+Quotation Entry - Quotaion Number require automatic. (vanilla)
+
+Advance Entry - after click pop up button, the product details need to show (Color, Thick, Width, Length and Weight)Advance Entry - In Pop-up button, product table need to show Availability Stock.
+Advance Entry - Cannot type in sales width MM and sales length Meter. Feet.In need to type manual. It is not auto calculation box. (Total Length = Feet + Feet.In)
+Advance Entry - Amoun calculation wrong. (Amount = Rate * Total Legth)
+Advance Entry - Product table need to show only (Brand and Name), Other details need to select manual.
+Advance Entry - not interface with Inventory Stock Ledger.
+
+Invoice Entry - Amoun calculation wrong. (Amount = Rate * Total Legth)
+Invoice Entry - Cannot type in sales width MM and sales length Meter. Feet.In need to type manual. It is not auto calculation box. (Total Length = Feet + Feet.In)
+Invoice Entry - Product Details - Quotation width not show. Total Length not support. Qty not show.
+Invoice Entry - After Invoice - Stock not decrease in sales Warehouse.
+Invoice Entry - Type After select advance product Details table is not working.
+
+Production Order - Sales Width not show. Sales Total Length not show.
+Productioin Order - No need to interface with Inventory Module. (Vanilla)
+
+Delivery Entry for Sales - Products table need to update. (Update Product Table Require)
+Delivery Entry for sales - Entry finished after sale inventory stock increase.
+
+Collection Entry - Paid Amount need to show.
+Collection Entry - Bank Payment - Bank Details Require.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Manufacturing
+=========
+Production Order - Update product table require.
+Production Order - Width MM and M cannot type and Auto calculation also missing. Only feet and inches calculation working.
+Production Order - Length MM and M cannot type and Auto calculation also missing. Only feet and inches calculation working.
+Production Order - Extra Length MM cannot type. Auto calculation also missing.
+
+Good Issue note - type selection not support. (Normal production selected also it show Show sales production order selection box.)
+Good Issue Note - Normal Production order good issue note not working.
+Good Issue note - Raw Product need to remove. (Need confirmation)
+Good Issue Note - After save the transaction, update not support.
+
+Good Receipt Note - Need to move to Inventory function.
+
+
+

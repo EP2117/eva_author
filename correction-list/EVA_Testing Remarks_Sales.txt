@@ -1,0 +1,16 @@
+09.11.2017 :
+========
+* Interface Functionality Required - Master , Inventory, Reports, Accounts.
+* Date - Issue.
+* Back Functionality Required.
+* All the Entry numbers - required in Add Functionality (User Define).
+* Quotation - List - Created Quoation details not Showed.
+* Invoice - Add - Credit Days - Auto - Due Day- required to Show.
+* Invoice - Add - Quotation Details not Interface.
+* Advance Entry - Functionality Missing.
+* Production Order - Add - Product Type Filter - Not Working.
+* Production Order - Add - Remarks - Required.
+* Credit Note - Functionality - Missing.
+* Quoation Entry Cannot Present in List . So It Cannot Move to the Other Interface Functionality.
+
+

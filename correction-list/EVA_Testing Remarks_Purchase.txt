@@ -1,0 +1,18 @@
+09.11.2017 :
+========
+* Interface Required With Master, Accounts, Reports  & Inventoty.
+* Back & Delete - Functionality Required.
+* Supplier Location - Required to Show only in before Supplier Name.
+* PO - Currency Rate -Option Missing.Need Check
+* PO - Payment Terms - Statical Option Missing.
+* PO - Shipment No - Option Missing. Id
+* PO - Cannot Entry any Data's.
+* PO - Net Total - Missing.
+* GRN - Need to Show the All the Details from PO.
+* GRN - GRN Type - Statical Option Missing.
+* Payment Entry - Payment Terms ?
+* Payment Entry - Calculation Working ?
+* Product Con Entry - Functionality Calculation Process Missing.
+* Coin Entry - Total Need to Change
+* Coin Report - Functionality Interface Missing.
+* Debit Note - Type - Change the String Master to Both.

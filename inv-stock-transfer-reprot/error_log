@@ -1,0 +1,1 @@
+[07-Aug-2019 10:05:55 Asia/Kolkata] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arasoft/public_html/eva/includes/config/config.php on line 22

@@ -1,0 +1,29 @@
+Purchase Order->Add->Ton Sale not need qty entry.Calculating (rate *Ton =unit price). --Finished
+		- Remove Brand Filter in Above Product Table. "Fliter Only". -- told no need
+		- If Product UOM is Ton Means need to calculte from Ton Only. -- Finished
+*Invoice Entry->add->Frg Total name change(Increase Qty).
+		- Brand Missing --Finished
+		- Ton & KGS Missing --Finished
+		- Advance - Not Carry From PO.--Finished
+		- Child Table - Think - Statical Value , Length - M Required, Ton to KGS - Auto Calculation Missing.
+		- One Squre Feet Calculation Missing (Discussion Pending In Authors Side)    
+		-> Raw material Ton Uom  cannot carry forward invoice entry then Ton Edit Tap required. --Finished
+		-> PO Pop Window Required.:Taking Time"   -- Finished
+		-> Product Type - Fliter Missing --Finished
+		-> Increase Qty we r type 2 qty but process table will show 3 child products. --Finished
+		-> Child Product Details have length (Ft & M) not MM.QTY(Tom & Kg)Ton spelling wrong.Then cannot automatic   --Finished
+calculating KG .
+		- Account - Not Interface .(Pending)		
+*GRN Entry	- Invoice POP Window Selection Only Required. "Take Time"
+		- Product Table Need to Check. :Need Discussion With Authors"
+		- In Child Table - Ton to Kgs Auto Calculation Missing  -- Finished
+		->Not interface Inventory . --(Finished)
+		->Invoice Have 2 Child Product but GRN Details show 4 products."Check Again" -- Finished
+		->Accept ,Reject & Lost Required .Loss tap is link with P&L. Ref Process Flow Excel. Not In Our Excel - "Authors 
+End Checking" --Finished
+*Payment Entry cannot get. Not Interface 
+*Debit Note Entry	-> Invoice Ref Details & Invoice Have Product Details required.
+		-> Debit Note have Product table is not clear. 
+		- " UOM Document Required Authors" - Need Document
+* Cannot create new product in master for Puchase process.
+*Purchase Have All Process Flow have  Ref Excel.

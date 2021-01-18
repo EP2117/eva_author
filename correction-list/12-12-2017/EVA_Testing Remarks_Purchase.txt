@@ -1,0 +1,125 @@
+09.11.2017 :
+========
+* Interface Required With Master, Accounts, Reports  & Inventoty.
+* Back & Delete - Functionality Required.
+* Supplier Name - Required Master Details.
+* PO - Currency Rate -Option Missing.Need Check - Done
+* PO - Payment Terms - Statical Option Missing. - Done
+* PO - Shipment No - Option Missing. Id - Done
+* PO - Cannot Entry any Data's. - Done
+* PO - Net Total - Missing.
+* GRN - Need to Show the All the Details from PO. Done
+* GRN - GRN Type - Statical Option Missing.Done
+* Payment Entry - Payment Terms ? 
+* Payment Entry - Calculation Working ?
+* Product Con Entry - Functionality Calculation Process Missing. Under Check.
+* Coin Entry - Total Need to Change - Under Check
+* Coin Report - Functionality Interface Missing.
+* Debit Note - Type - Change the String Master to Both.
+
+11.11.2017 :
+=========
+* Invoice Entry - Credit Limits, Over Due Required to Show With Interface.
+* Invoice Entry - List - Branch Not Showed.
+* Cost Entry - Edit - Amount Showed Wrongly.
+* Coin Report - Not Working.
+* In Product Master - Required Multiple UOM.(Ex : Feet & Ton)
+
+11.11.2017 Vanilla
+============
+Purchase Order
+1) Can show unit price wrong amt in edit.
+Costing Entry - Add
+2) Doing mmk  but cannot add total amount.
+Invoice Entry - Edit
+3) Can show wrong total and net total 
+4) We r doing dis entry but cannot show edit view.
+Payment Entry
+5) Supplier name table is wrong.
+6) Cannot show invoice all details.
+Product Coin Entry
+7) Not working
+Debit note
+8) Can type more than purchase qty.
+9) Amount not working.
+10) All functionality finished means it cannot edit and delete - Required.
+
+11.11.2017 (YLS) 
+..........................
+All the functions Require (Back and Delete Option). (Finished)
+
+{Purchase Order} 
+Supplier Name - Show Warehouse Selection. (Finished)
+Supplier Name - Missing. (Finished)
+	Currency Master - Require. 
+	ID Need to select manual and automatic.
+
+{Good Receipt Note}
+	ID Need to select manual and automatic.
+	Delete Option not support. (After made transaction, delete buttom not support.)
+	After GRN, Inventory not show current stock.
+{Invoice Entry}
+	Cannot type in Cash Discount.
+	Need to show Purchase Order currency and need to show total MMK amount in Product Details.
+
+{Costing Entry}
+	Invoice Entry Details Missing.
+	Total Amount showed wrongly.
+
+{Payment Entry}
+	Payment Mode (TT and Hondi details Missing)
+	Supplier Name showed Branch Details. 
+	Invoice Entry Details not working.
+	Payment Details not working.
+	Payment need to show Invoice Entry Currency and need to show Invoice Entry Rate.
+
+{Product Coin Entry}
+	GRN Pop Up Button Missing.
+	Branch Filter - Not Support.
+	Date - Cannot Choose.
+	Invoice Not Support.
+
+{Coin Report} Need to Remove from Purchase Module.
+
+{Debit Note}
+	Supplier Location - Selection not support.
+	Supplier Name - Selection not Support.
+	Warehouse - Selection not Support.
+	GRN Details Missing.
+	Product selection Pop Up Missing.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+08.12.2017 : YLS
+========
+
+(Master)
+** Mandatary Value Require.
+1. Branch Tab Missing  - done
+2. Supplier - Supplier Code (Manual, Automatic) Selection Require. - done
+2.1 Supplier - Supplier Type Not Support in Supplier.- done
+3. Currency Missing. - done
+4. Color Missing.  -done
+5. Product - Need to remove Length and Thickness from Product Details.
+
+(Purchase)
+** Mandatary Value Require.
+** Entry List need to show Supplier Name Also.
+Purchase Order
+1. After Input Foreign Rate, Rate Need to show Automatic.
+
+Invoice Entry
+* Invoice Tab Need to show Before GRN.
+1. Dis % box calculation missing.
+Invoice Not Link with GRN. - True 
+
+Good Receipt Note
+1. Invoice number need to show Supplier Name and Other Details. (Not Only Invoice Number)
+
+Costing Entry
+1. Need to add more 4 lines for other costing. (Currency Details Require)
+
+Payment Entry
+1. Invoice Number Pop-up Button Require.
+2. Advance Amount Not Support.
+
+{ Purchase Top to Buttom Flow Working }.
+-------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+09.11.2017 :
+========
+* Interface Functionality Required - Master , Sales, Inventory, Reports, Accounts, HR.
+* Date - Issue.
+* Back & Delete- Functionality Required.
+* Production Entry - Remarks required.
+* Production Entry - Type (Own/Out Source ) - Missing.
+* Prodution Entry - Production Type - Statical Missing.
+* Gate Pass - Functionality Missing.
+* Related Reports - Required.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Manufacturing (YLS)
+=========
+1. Production Order
+1.1 Product Details box need to entend.
+1.2 If not mention raw product in master, Raw Product cannot choose for Production Request Product.
+
+2. Good Issue Note Entry 
+2.1 Product Details need to show Production Order Product and Length, Width and Thickness also).
+
+3. Need to Interface With Inventory.
+-------------------------------------------------------------------------------------------------------------------------------------------

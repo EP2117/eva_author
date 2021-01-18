@@ -1,0 +1,18 @@
+ALTER TABLE `stock_ledger` ADD `stock_ledger_mother_child_type` TINYINT(1) NOT NULL AFTER `stock_ledger_type`;
+
+ALTER TABLE `grn_details_products` ADD `grnP_mother_child_type` TINYINT(1) NOT NULL AFTER `grnP_pending`;
+
+ALTER TABLE `grn_child_product_details` ADD `grn_child_mother_child_type` TINYINT(1) NOT NULL AFTER `grn_child_product_detail_type`;
+
+
+==========
+
+
+sales
+
+
+ALTER TABLE `invoice_entry_product_details` ADD `invoice_entry_product_detail_mother_child_type` TINYINT(1) NOT NULL AFTER `invoice_entry_product_detail_qty`;
+
+
+
+ALTER TABLE `delivery_customer_product_details` ADD `delivery_customer_product_detail_mother_child_type` TINYINT(1) NOT NULL AFTER `delivery_customer_product_detail_entry_type`;

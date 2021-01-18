@@ -1,0 +1,11 @@
+09.11.2017 :
+========
+* Interface Functionality Required - Master , Sales, Inventory, Reports & Accounts.
+* Reserve - UOM - Not Showed.
+* Reserve - Product Details - Selection String Name required to Change.
+* Opening Stock - Required to Show - Automatical product List.
+* Stock Transfer - UOM - Required to Show.
+* Demage Entry -  Alrert Msg string Changes.
+* Demage Entry - Remove - Product Option.
+* Write Off - Product Details - Wrongly Show the Add Qty.
+

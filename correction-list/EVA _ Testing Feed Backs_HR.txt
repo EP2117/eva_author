@@ -1,0 +1,18 @@
+10.11.2017 :
+========
+* All Functionality button -String Changes.
+* Bach - Functionality Required.
+* Delete - Functionality Required.
+* DOB - Issue.
+* SSB - Required %.
+* Bonus - No - Not Working.
+* Allowance - No - Not Working.
+* Attendance - Reports - Required.
+* Leave - Leave Type - Statical Missing.
+* Leave - No of Days - Calculation Wrong.
+* Leave - Request By & Approval By - Master Emp Interface Required.
+* Leave - Paid & Un Paid - Option Required.
+* Over Time - Amount - Auto Interface From Master Details - Required.
+* Over Time -  Request By & Approval By - Master Emp Interface Required.
+* Advance -  Request By & Approval By - Master Emp Interface Required.
+* Pay Slip - Update - Auto ?(Doubt)

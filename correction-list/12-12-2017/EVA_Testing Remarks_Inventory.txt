@@ -1,0 +1,21 @@
+09.11.2017 :
+========
+* Interface Functionality Required - Master , Sales, Inventory, Reports & Accounts.
+* Reserve - UOM - Not Showed.
+* Reserve - Product Details - Selection String Name required to Change.
+* Opening Stock - Required to Show - Automatical product List.
+* Stock Transfer - UOM - Required to Show.
+* Demage Entry -  Alrert Msg string Changes.
+* Demage Entry - Remove - Product Option.
+* Write Off - Product Details - Wrongly Show the Add Qty.
+
+Inventory (YLS)
+========
+1. Stock Ledger (Working)
+2. Gatepass (Interface Require)
+3. Reserve (Product Coin Entry Product not show). (It show only Purchase Order Product).
+4. Stock Transfer (It show Purchase Order Product).
+5. Damage and Missing Product Entry (It show only Purchase Order Product).
+6. Write-off (It show only Purchase Order Product).
+6.1 Select Id ? (It show only 4 Id).
+* GRN - Required to Interface With Stock Ledger.

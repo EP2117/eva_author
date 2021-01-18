@@ -1,0 +1,3 @@
+==========================23-01-2018==================================
+
+ALTER TABLE `gin_entry_product_details`  ADD `grn_entry_product_detail_s_weight_ton` DECIMAL(12,3) NOT NULL AFTER `gin_entry_product_detail_qty`,  ADD `grn_entry_product_detail_s_weight_kg` DECIMAL(12,3) NOT NULL AFTER `grn_entry_product_detail_s_weight_ton`,  ADD `grn_entry_product_detail_tot_length_feet` DECIMAL(12,3) NOT NULL AFTER `grn_entry_product_detail_s_weight_kg`,  ADD `grn_entry_product_detail_tot_length_meter` DECIMAL(12,3) NOT NULL AFTER `grn_entry_product_detail_tot_length_feet`
